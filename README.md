@@ -9,9 +9,10 @@ After 10,000 roulette spins, it shows a total balance of the six player's bet
 
 Clone the repository into a directory 
 
-    git clone https://github.com/gonzalog1992/InterviewExercise
+    git clone https://github.com/gonzalog1992/ProjectRoulette
 
-Run:
+Inside the ProjectRoulette Folder,
+Run
 
   - make  
     To generate all output files
